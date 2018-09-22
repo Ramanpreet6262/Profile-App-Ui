@@ -1,8 +1,5 @@
-# raman
+# Profile-App-Ui
 
-A new Flutter project.
+A simple profile app ui coded in dart with flutter sdk.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## Screenshot-- 
