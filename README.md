@@ -2,6 +2,6 @@
 
 A simple profile app ui coded in dart with flutter sdk.
 
-## Screenshot-- 
+## Screenshot
 
-![Screenshot](Images/screenshot.jpeg)
+<img src=Images/screenshot.jpeg height=300em>
